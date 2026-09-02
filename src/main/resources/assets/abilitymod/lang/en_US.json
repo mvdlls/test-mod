@@ -1,0 +1,30 @@
+{
+  "item.abilitymod.aggressium": "Aggressium",
+  "item.abilitymod.mobilium": "Mobilium",
+  "item.abilitymod.protisium": "Protisium",
+  "item.abilitymod.utilium": "Utilium",
+
+  "abilities.aggression.shockwave": "Shock Wave",
+  "abilities.aggression.fireball": "Fireball",
+  "abilities.aggression.detonate": "Detonate",
+  "abilities.aggression.tornado": "Tornado",
+  "abilities.aggression.rage": "Rage",
+
+  "abilities.mobility.levitation": "Levitation",
+  "abilities.mobility.teleport": "Teleport",
+  "abilities.mobility.jetpack": "Jetpack",
+  "abilities.mobility.flash": "Flash",
+  "abilities.mobility.wings": "Wings",
+
+  "abilities.protection.resistance": "Resistance",
+  "abilities.protection.coldsnap": "Cold Snap",
+  "abilities.protection.barrier": "Barrier",
+  "abilities.protection.thorns": "Thorns",
+  "abilities.protection.clone": "Clone",
+
+  "abilities.utility.regeneration": "Regeneration",
+  "abilities.utility.telekinesis": "Telekinesis",
+  "abilities.utility.stealth": "Stealth",
+  "abilities.utility.repair": "Repair",
+  "abilities.utility.purify": "Purify"
+}
